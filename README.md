@@ -9,9 +9,9 @@ Sou um entusiasta da tecnologia em transição de carreira para me tornar um **B
 - 🎯 **Foco atual**: Java, consumo de APIs, estruturas de dados e persistência de dados.
 - 💡 **Objetivo**: Trabalhar remotamente como **Back-End Developer** em uma empresa de tecnologia.
 - 📚 **Interesses**: Programação, análise de dados, automação e inteligência artificial.
-- 🔥 **Desafios**: Manter a consistência nos estudos e superar dificuldades relacionadas à atenção e foco.
+- 🔥 **Desafios**: Manter a consistência nos estudos e superar dificuldades relacionadas à neurodivergência.
 - ☕ **Curiosidades**: Gosto de momentos de silêncio e contato com a natureza.
-
+- 🧠 **Diagnóstico**: TEA nivel 1 de suporte "leve".
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -25,20 +25,22 @@ Atualmente aprendendo e praticando:
 - **Versionamento de Código**:  
   - Git & GitHub
 
-- **Ferramentas**:  
+- **Ferramentas de Desenvolvimento**:  
   - IntelliJ IDEA
   - Visual Studio Code
   - Maven  
   - Postman (para testes de API)
 
 - **Banco de Dados**:  
-  - Em breve: SQL, NoSQL e Inteligencia Artificial com foco em programação.
+  - Em breve: SQL, NoSQL e Inteligencia Artificial com foco em programação
+  - Integração com projetos usando Spring Boot
+
 
 ---
 
 ## 📖 Minha Jornada
 
-No programa Oracle ONE, estou criando projetos reais como o **Literalura**, onde:  
+Na formação **Oracle Next Education (ONE)** estou desenvolvendo aplicações práticas que simulam cenários reais do mercado. Entre elas:
 - Consumo a API pública [Gutendex](https://gutendex.com/)  
 - Faço requisições HTTP e trato respostas com Jackson  
 - Construo menus interativos em console com `Scanner`  
@@ -48,11 +50,11 @@ No programa Oracle ONE, estou criando projetos reais como o **Literalura**, onde
 
 ## 🎯 Próximos Passos
 
-- Finalizar a etapa atual do projeto Literalura
-- Adicionar persistência com banco de dados
-- Aprender Spring Boot
-- Criar portfólio com projetos completos
-- Retomar estudos de inglês voltados à programação
+- ✅ Finalizar funcionalidades de consulta no projeto Literalura  
+- 🧩 Adicionar banco de dados com persistência local  
+- 🌐 Aprender Spring Boot e criação de APIs REST próprias  
+- 🧪 Criar mais projetos práticos para o portfólio  
+- 🟦 Retomar os estudos de inglês técnico para desenvolvimento
 
 ---
 

@@ -26,12 +26,13 @@ Atualmente aprendendo e praticando:
   - Git & GitHub
 
 - **Ferramentas**:  
-  - IntelliJ IDEA  
+  - IntelliJ IDEA
+  - Visual Studio Code
   - Maven  
   - Postman (para testes de API)
 
 - **Banco de Dados**:  
-  - Em breve: SQL e NoSQL
+  - Em breve: SQL, NoSQL e Inteligencia Artificial com foco em programação.
 
 ---
 
@@ -58,7 +59,6 @@ No programa Oracle ONE, estou criando projetos reais como o **Literalura**, onde
 ## 📬 Conecte-se comigo
 
 📩 **E-mail**: leo.eletro13@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
 📂 **GitHub**: [github.com/leogonzaga82](https://github.com/leogonzaga82)
 
 ---

@@ -10,7 +10,7 @@ Tenho formação complementar pela Alura, estou no 2º período da graduação e
 
 💡 Objetivo: Atuar remotamente como Back-End Developer.
 
-📚 Interesses: Desenvolvimento Back-End, automação, análise de dados e IA aplicada ao desenvolvimento.
+📚 Interesses: Desenvolvimento Back-End, automação, análise de dados e IA aplicada a programação.
 
 🔥 Diferencial: Base forte em engenharia, raciocínio lógico, resolução de problemas e pensamento sistêmico.
 

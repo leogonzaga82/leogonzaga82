@@ -1,60 +1,97 @@
-# 👋 Olá, eu sou Leonardo!
+👋 Olá, eu sou Leonardo!
 
-Sou um entusiasta da tecnologia em transição de carreira para me tornar um **Back-End Developer**. Atualmente, estou me aprofundando em **Java**, participando do programa **Oracle Next Education (ONE)**, e desenvolvendo projetos práticos com **consumo de APIs REST**, **manipulação de JSON**, e versionamento com **Git e GitHub**.
+Sou um profissional em transição de carreira para Back-End Developer, com sólida formação técnica e experiência prévia como Engenheiro Eletricista. Atualmente, foco meu desenvolvimento em Java, lógica de programação e construção de aplicações Back-End.
 
----
+Tenho formação complementar pela Alura, estou no 2º período da graduação em Análise e Desenvolvimento de Sistemas (ADS) e participo de bootcamps práticos voltados ao mercado, sempre aplicando conceitos com disciplina técnica e pensamento analítico.
 
-## 🚀 Sobre mim
+🚀 Sobre mim
 
-- 🎯 **Foco atual**: Java, consumo de APIs, estruturas de dados e persistência de dados.
-- 💡 **Objetivo**: Trabalhar remotamente como **Back-End Developer** em uma empresa de tecnologia.
-- 📚 **Interesses**: Programação, análise de dados, automação e inteligência artificial.
-- 🔥 **Desafios**: Manter a consistência nos estudos e superar dificuldades relacionadas à neurodivergência.
-- ☕ **Curiosidades**: Gosto de momentos de silêncio e contato com a natureza.
-- 🧠 **Diagnóstico**: TEA nivel 1 de suporte "leve".
----
+🎯 Foco atual: Java, lógica de programação, consumo de APIs REST, estruturas de dados e persistência.
 
-## 🛠️ Tecnologias e Ferramentas
+💡 Objetivo: Atuar remotamente como Back-End Developer.
 
-Atualmente aprendendo e praticando:
+📚 Interesses: Desenvolvimento Back-End, automação, análise de dados e inteligência artificial aplicada.
 
-- **Linguagens**:  
-  - Java (consumo de APIs, parse de JSON, projeto com HttpClient e Jackson)  
-  - JavaScript (em paralelo, com foco futuro no Back-End)
+🔥 Diferencial: Base forte em engenharia, raciocínio lógico, resolução de problemas e pensamento sistêmico.
 
-- **Versionamento de Código**:  
-  - Git & GitHub
+☕ Curiosidades: Valorizo silêncio, rotina simples e contato com a natureza.
 
-- **Ferramentas de Desenvolvimento**:  
-  - IntelliJ IDEA
-  - Visual Studio Code
-  - Maven  
-  - Postman (para testes de API)
+🎓 Formação e Bootcamps
 
-- **Banco de Dados**:  
-  - Em breve: SQL, NoSQL e Inteligencia Artificial com foco em programação
-  - Integração com projetos usando Spring Boot
+🎓 Graduação: Análise e Desenvolvimento de Sistemas (ADS) — 2º período
 
+🎓 Formação anterior: Engenharia Elétrica
 
----
+📘 Cursos:
 
-## 📖 Minha Jornada
+Formação em tecnologia pela Alura (concluída)
 
-Na formação **Oracle Next Education (ONE)** estou desenvolvendo aplicações práticas que simulam cenários reais do mercado. Entre elas:
-- Consumo a API pública [Gutendex](https://gutendex.com/)  
-- Faço requisições HTTP e trato respostas com Jackson  
-- Construo menus interativos em console com `Scanner`  
-- Organizo código com boas práticas OOP
+🚀 Bootcamps (DIO):
 
----
+Nexa – Fundamentos de IA Generativa com Amazon Bedrock
 
-## 🎯 Próximos Passos
+Santander 2025 – Fundamentos de Lógica de Programação
 
-- ✅ Finalizar funcionalidades de consulta no projeto Literalura  
-- 🧩 Adicionar banco de dados com persistência local  
-- 🌐 Aprender Spring Boot e criação de APIs REST próprias  
-- 🧪 Criar mais projetos práticos para o portfólio  
-- 🟦 Retomar os estudos de inglês técnico para desenvolvimento
+💻 Programa:
+
+Oracle Next Education (ONE) – foco em Java e Back-End
+
+🛠️ Tecnologias e Ferramentas
+Linguagens
+
+Java
+
+Consumo de APIs REST
+
+Manipulação e parse de JSON (Jackson)
+
+Projetos com HttpClient
+
+Estruturação com OOP
+
+JavaScript
+
+Em aprendizado paralelo, com foco futuro em Back-End
+
+Versionamento
+
+Git
+
+GitHub
+
+Ferramentas
+
+IntelliJ IDEA
+
+Visual Studio Code
+
+Maven
+
+Postman
+
+Banco de Dados
+
+Em aprendizado:
+
+SQL e NoSQL
+
+Integração com Spring Boot
+
+Persistência de dados em projetos Back-End
+
+📖 Minha Jornada
+
+No programa Oracle Next Education (ONE) desenvolvo projetos práticos que simulam cenários reais do mercado, como:
+
+Consumo da API pública Gutendex
+
+Requisições HTTP e tratamento de respostas com Jackson
+
+Menus interativos em console utilizando Scanner
+
+Organização de código com boas práticas de OOP
+
+Estruturação progressiva para futura persistência em banco de dados
 
 ---
 

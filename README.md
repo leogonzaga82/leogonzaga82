@@ -1,38 +1,39 @@
-**👋 Olá, eu sou Leonardo!
+👋 Olá, eu sou Leonardo!
 
-Sou um profissional em transição de carreira para Back-End Developer, com sólida formação técnica e experiência prévia como Engenheiro Eletricista. Atualmente, foco meu desenvolvimento em Java, lógica de programação e construção de aplicações Back-End.
+Sou um profissional em transição de carreira para Back-End Developer, com formação em Engenharia Elétrica e foco em Java, lógica de programação e construção de aplicações Back-End.
 
 Tenho formação complementar pela Alura, estou no 2º período da graduação em Análise e Desenvolvimento de Sistemas (ADS) e participo de bootcamps práticos voltados ao mercado, sempre aplicando conceitos com disciplina técnica e pensamento analítico.
 
 🚀 Sobre mim
 
-🎯 Foco atual: Java, lógica de programação, consumo de APIs REST, estruturas de dados e persistência.
+🎯 Foco atual: Java, lógica de programação, consumo de APIs REST, estruturas de dados e persistência de dados.
 
 💡 Objetivo: Atuar remotamente como Back-End Developer.
 
-📚 Interesses: Desenvolvimento Back-End, automação, análise de dados e inteligência artificial aplicada.
+📚 Interesses: Desenvolvimento Back-End, automação, análise de dados e IA aplicada ao desenvolvimento.
 
 🔥 Diferencial: Base forte em engenharia, raciocínio lógico, resolução de problemas e pensamento sistêmico.
 
 ☕ Curiosidades: Valorizo silêncio, rotina simples e contato com a natureza.
 
 🎓 Formação e Bootcamps
+🎓 Formação Acadêmica
 
-🎓 Graduação: Análise e Desenvolvimento de Sistemas (ADS) — 2º período
+Análise e Desenvolvimento de Sistemas (ADS) — 2º período
 
-🎓 Formação anterior: Engenharia Elétrica
+Engenharia Elétrica
 
-📘 Cursos:
+📘 Cursos
 
 Formação em tecnologia pela Alura (concluída)
 
-🚀 Bootcamps (DIO):
+🚀 Bootcamps (DIO)
 
 Nexa – Fundamentos de IA Generativa com Amazon Bedrock
 
 Santander 2025 – Fundamentos de Lógica de Programação
 
-💻 Programa:
+💻 Programa
 
 Oracle Next Education (ONE) – foco em Java e Back-End
 
@@ -93,13 +94,10 @@ Organização de código com boas práticas de OOP
 
 Estruturação progressiva para futura persistência em banco de dados
 
----
+Esses projetos reforçam minha base em Back-End e consolidam uma abordagem prática, organizada e orientada à solução de problemas.
 
-## 📬 Conecte-se comigo
+📬 Contato
 
-📩 **E-mail**: leo.eletro13@gmail.com  
-📂 **GitHub**: [github.com/leogonzaga82](https://github.com/leogonzaga82)
+📩 E-mail: leo.eletro13@gmail.com
 
----
-**
-🚀 *"Cada linha de código escrita hoje é um passo a mais na jornada para o sucesso!"*
+📂 GitHub: https://github.com/leogonzaga82

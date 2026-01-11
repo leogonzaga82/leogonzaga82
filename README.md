@@ -1,4 +1,4 @@
-👋 Olá, eu sou Leonardo!
+**👋 Olá, eu sou Leonardo!
 
 Sou um profissional em transição de carreira para Back-End Developer, com sólida formação técnica e experiência prévia como Engenheiro Eletricista. Atualmente, foco meu desenvolvimento em Java, lógica de programação e construção de aplicações Back-End.
 
@@ -101,5 +101,5 @@ Estruturação progressiva para futura persistência em banco de dados
 📂 **GitHub**: [github.com/leogonzaga82](https://github.com/leogonzaga82)
 
 ---
-
+**
 🚀 *"Cada linha de código escrita hoje é um passo a mais na jornada para o sucesso!"*
